@@ -44,7 +44,9 @@ A clean, focused environment designed for scientific exploration and biology edu
 
 ## ⚙️ Technology
 
-**HTML · CSS · JavaScript**
+**HTML · CSS · JavaScript · Three.js**
+
+**3D Asset:** Rigged Rabbit Model
 
 **Repository:** GitHub & Codeberg  
 **Hosting:** Cloudflare
@@ -55,6 +57,9 @@ A clean, focused environment designed for scientific exploration and biology edu
 
 🐇 **FourthGreen # Sketchfab**  
 Rigged Rabbit Model
+
+☁️ **Supabase**  
+Asset Delivery
 
 🤖 **OpenAI GPT Luna 5.7**  
 Code Implementation & Prompt Generation
