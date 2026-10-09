@@ -1,47 +1,69 @@
-Xtrematrix Prejudix
+<p align="center">
+  <img src="assets/banner.png" alt="Xtrematrix Prejudix — Interactive Natural Selection & Evolution Simulator" width="100%">
+</p>
 
-Interactive Natural Selection & Evolution Simulator
+# 🧬 Xtrematrix Prejudix
 
-Xtrematrix Prejudix is an interactive visualization exploring biological variation, environmental selection pressure, survival advantages, and evolutionary adaptation through simulated populations.
+### *Interactive Natural Selection & Evolution Simulator*
 
-🧬 Evolution · 🌱 Natural Selection · 🐇 Biological Variation
+> **Xtrematrix Prejudix** is an interactive visualization exploring **biological variation**, environmental selection pressure, survival advantages, and evolutionary adaptation through simulated populations.
+>
+🧬 **Evolution** · 🌱 **Natural Selection** · 🐇 **Biological Variation**
 
-🔬 Explore the Simulation
+**🔬 [Explore the Simulation](YOUR_CLOUDFLARE_LINK_HERE)**
 
-✦ Features
+---
 
-🧬 Variation Simulation
+## ✦ Features
+
+**🧬 Variation Simulation**  
 Explore genetic variations and trait differences within a population.
 
-🦅 Selection Pressure Simulation
+**🦅 Selection Pressure Simulation**  
 Visualize how environmental factors such as predators and resource availability influence survival.
 
-🐇 Adaptation Visualization
+**🐇 Adaptation Visualization**  
 Observe how advantageous traits become more common through generations.
 
-🌱 Environmental Interaction
+**🌱 Environmental Interaction**  
 Explore the relationship between organisms, traits, and changing environments through interactive scenarios.
 
-🔬 Interactive Learning
+**🔬 Interactive Learning**  
 Understand evolutionary processes through step-by-step visualization.
 
-🎴 Dark Interface
+**🎴 Dark Interface**  
 A clean, focused environment designed for scientific exploration and biology education.
 
-🧬 Core Concepts
-Variation · Natural Selection · Selection Pressure · Adaptation · Survival Advantage · Evolutionary Change · Population Dynamics
+---
 
-⚙️ Technology
-HTML · CSS · JavaScript
+## 🧬 Core Concepts
 
-Repository: GitHub & Codeberg
-Hosting: Cloudflare
+**Variation · Natural Selection · Selection Pressure · Adaptation · Survival Advantage · Evolutionary Change · Population Dynamics**
 
-🙏 Credits
+---
 
-🐇 FourthGreen # Sketchfab: Rigged Rabbit Model
-🤖 OpenAI GPT Luna 5.7: Code Implementation & Prompt Generation
-🧠 Claude Sonnet 5.5: Code Architecture Generation
+## ⚙️ Technology
 
-📜 License
-Distributed under the GNU General Public License v3.0 (GPL-3.0).
+**HTML · CSS · JavaScript**
+
+**Repository:** GitHub & Codeberg  
+**Hosting:** Cloudflare
+
+---
+
+## 🙏 Credits
+
+🐇 **FourthGreen # Sketchfab**  
+Rigged Rabbit Model
+
+🤖 **OpenAI GPT Luna 5.7**  
+Code Implementation & Prompt Generation
+
+🧠 **Claude Sonnet 5.5**  
+Code Architecture Generation
+
+---
+
+## 📜 License
+
+Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
