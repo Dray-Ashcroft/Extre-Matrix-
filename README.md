@@ -46,8 +46,7 @@ A clean, focused environment designed for scientific exploration and biology edu
 
 **HTML · CSS · JavaScript · Three.js**
 
-**3D Asset:** Rigged Rabbit Model
-
+**3D Asset:** Rigged Rabbit, Eagle Model
 **Repository:** GitHub & Codeberg  
 **Hosting:** Cloudflare
 
